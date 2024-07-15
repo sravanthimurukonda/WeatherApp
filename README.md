@@ -7,8 +7,10 @@ WeatherApp is a web application that provides real-time weather updates for any 
 1. ### Clone the Repository:
 git clone <your-repository-url>
 cd weather-app
+
 2. ### Open the Project:
 Open the project folder in your preferred code editor (e.g., VS Code).
+
 3. ### API Key:
 - Sign up on OpenWeatherMap to get your API key.
 - Replace the key value in script.js with your API key:
@@ -16,6 +18,7 @@ Open the project folder in your preferred code editor (e.g., VS Code).
     key: 'YOUR_API_KEY',
     baseUrl: 'https://api.openweathermap.org/data/2.5/weather'
 }
+
 4. ### Run the Application:
 Open index.html in your web browser.
 
