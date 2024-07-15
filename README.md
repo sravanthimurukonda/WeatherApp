@@ -34,11 +34,11 @@ Open index.html in your web browser.
 - HTML5 Video: For background videos.
 
 ## Features
-Search Weather by City: Users can enter a city name to get the current weather information.
-Dynamic Weather Display: Displays temperature, weather condition, min-max temperature, feels like temperature, humidity, pressure, and wind speed.
-Background Video Change: The background video changes based on the current weather condition (e.g., clear sky, clouds, rain).
-Error Handling: Shows alerts for empty input and invalid city names using SweetAlert.
-Responsive Design: The app adjusts its layout for different screen sizes using media queries.
+- Search Weather by City: Users can enter a city name to get the current weather information.
+- Dynamic Weather Display: Displays temperature, weather condition, min-max temperature, feels like temperature, humidity, pressure, and wind speed.
+- Background Video Change: The background video changes based on the current weather condition (e.g., clear sky, clouds, rain).
+- Error Handling: Shows alerts for empty input and invalid city names using SweetAlert.
+- Responsive Design: The app adjusts its layout for different screen sizes using media queries.
 
 ## Contributing
 We welcome contributions to improve this weather app. 
